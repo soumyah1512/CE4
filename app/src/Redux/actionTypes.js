@@ -1,0 +1,5 @@
+export const GET_PRODUCT_DATA = 'GET_PRODUCTS_DATA';
+export const SORT_PRODUCTS = 'SORT_PRODUCTS';
+export const FILTER_PRODUCTS = 'FILTER_PRODUCTS';
+
+
