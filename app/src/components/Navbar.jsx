@@ -6,7 +6,7 @@ export const Navbar = () => {
       <div>
         <Link to="/" style={{color: "white", textDecoration: "none"}}>Home</Link>
       </div>
-      <div>
+      <div> 
         <Link to="/about" style={{color: "white", textDecoration: "none"}}>About</Link>
       </div>
       <div>

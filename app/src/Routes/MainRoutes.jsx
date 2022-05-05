@@ -8,7 +8,7 @@ import { ProductCard } from "../components/ProductCard";
 
 const MainRoutes = () => {
   return (
-    <>
+    <> 
       <Navbar/>
       <Routes>
         <Route path="/" element={<Home/>}/>
